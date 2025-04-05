@@ -1,0 +1,16 @@
+C:\Users\Yigit\source\repos\DoğuşTeknoloji_ödev_1\DoğuşTeknoloji_ödev_1\bin\Debug\net8.0-windows\DoğuşTeknoloji_ödev_1.exe
+C:\Users\Yigit\source\repos\DoğuşTeknoloji_ödev_1\DoğuşTeknoloji_ödev_1\bin\Debug\net8.0-windows\DoğuşTeknoloji_ödev_1.deps.json
+C:\Users\Yigit\source\repos\DoğuşTeknoloji_ödev_1\DoğuşTeknoloji_ödev_1\bin\Debug\net8.0-windows\DoğuşTeknoloji_ödev_1.runtimeconfig.json
+C:\Users\Yigit\source\repos\DoğuşTeknoloji_ödev_1\DoğuşTeknoloji_ödev_1\bin\Debug\net8.0-windows\DoğuşTeknoloji_ödev_1.dll
+C:\Users\Yigit\source\repos\DoğuşTeknoloji_ödev_1\DoğuşTeknoloji_ödev_1\bin\Debug\net8.0-windows\DoğuşTeknoloji_ödev_1.pdb
+C:\Users\Yigit\source\repos\DoğuşTeknoloji_ödev_1\DoğuşTeknoloji_ödev_1\obj\Debug\net8.0-windows\DoğuşTeknoloji_ödev_1.Form1.resources
+C:\Users\Yigit\source\repos\DoğuşTeknoloji_ödev_1\DoğuşTeknoloji_ödev_1\obj\Debug\net8.0-windows\DoğuşTeknoloji_ödev_1.csproj.GenerateResource.cache
+C:\Users\Yigit\source\repos\DoğuşTeknoloji_ödev_1\DoğuşTeknoloji_ödev_1\obj\Debug\net8.0-windows\DoğuşTeknoloji_ödev_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yigit\source\repos\DoğuşTeknoloji_ödev_1\DoğuşTeknoloji_ödev_1\obj\Debug\net8.0-windows\DoğuşTeknoloji_ödev_1.AssemblyInfoInputs.cache
+C:\Users\Yigit\source\repos\DoğuşTeknoloji_ödev_1\DoğuşTeknoloji_ödev_1\obj\Debug\net8.0-windows\DoğuşTeknoloji_ödev_1.AssemblyInfo.cs
+C:\Users\Yigit\source\repos\DoğuşTeknoloji_ödev_1\DoğuşTeknoloji_ödev_1\obj\Debug\net8.0-windows\DoğuşTeknoloji_ödev_1.csproj.CoreCompileInputs.cache
+C:\Users\Yigit\source\repos\DoğuşTeknoloji_ödev_1\DoğuşTeknoloji_ödev_1\obj\Debug\net8.0-windows\DoğuşTeknoloji_ödev_1.dll
+C:\Users\Yigit\source\repos\DoğuşTeknoloji_ödev_1\DoğuşTeknoloji_ödev_1\obj\Debug\net8.0-windows\refint\DoğuşTeknoloji_ödev_1.dll
+C:\Users\Yigit\source\repos\DoğuşTeknoloji_ödev_1\DoğuşTeknoloji_ödev_1\obj\Debug\net8.0-windows\DoğuşTeknoloji_ödev_1.pdb
+C:\Users\Yigit\source\repos\DoğuşTeknoloji_ödev_1\DoğuşTeknoloji_ödev_1\obj\Debug\net8.0-windows\DoğuşTeknoloji_ödev_1.genruntimeconfig.cache
+C:\Users\Yigit\source\repos\DoğuşTeknoloji_ödev_1\DoğuşTeknoloji_ödev_1\obj\Debug\net8.0-windows\ref\DoğuşTeknoloji_ödev_1.dll
